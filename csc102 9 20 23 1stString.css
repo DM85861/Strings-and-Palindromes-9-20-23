@@ -1,0 +1,41 @@
+h1
+{
+  font-family: Verdana;
+  font-style: italic;
+}
+h1
+{
+  color: blue;
+  width: 100%;
+  height: 50px;
+  margin: auto;
+  border: 1px solid black;
+  background-color:#f35106;
+  border-radius: 50px;
+  
+}
+p
+{
+  background-color: #f35106;
+  font-display: yellow;
+}
+p
+{
+  font-family: 15px;
+}
+body
+{
+
+    background-image: url("csc102\ 9\ 20\ 23\ 1stStrings\ \(Url\ Image\)");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-color: lightgray;
+}
+
+
+
+
+
+
+
+  
